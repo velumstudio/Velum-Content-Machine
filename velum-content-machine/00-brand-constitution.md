@@ -77,7 +77,31 @@ Confident. Warm but never soft. Every word earns its place.
 
 **Symbol { • }:** brackets framing a gold dot. Top-left on social covers. Functions: status indicator, numbering device {1}{2}{3}, logo/watermark. Never decorative in body copy.
 
-**Photography:** faceless working moments only — laptop detail, coffee + laptop, document review, desk material detail. Desaturated, warm-dark (sepia-adjacent, never cold blue), visible grain, available light, intentional imperfection. Authority signals (spreadsheets, annotated documents, multi-device setups) — never lifestyle signals (ceramic mugs styled, linen, candles). Velum must never look like it belongs in the same visual category as the clients it serves.
+PHOTOGRAPHY SYSTEM — v6 (LOCKED)
+
+Subjects: Laptop detail (screen glow, hands typing, no face), document or
+proposal review (papers, pen, marked-up page), desk material detail
+(notebook, pen, soft shadow). Authority objects only — dashboards,
+annotated documents, multi-device setups. Object complexity scales with
+context (e.g. fewer objects = earlier stage, more connected devices =
+more mature stage).
+
+Treatment: Soft, bright, natural daylight. Airy and gentle, with a light
+warm undertone — never dark, moody, or underexposed. Delicate, graceful,
+softly feminine styling: pale cream surface, soft diffused shadows,
+elegant composition. Light desaturation, subtle fine film grain —
+visibly lighter than the previous sepia-dark treatment. Intentional
+imperfection: soft focus edges, asymmetric framing.
+
+Never: Posed "girlboss" flat-lays, visible faces, visible branding or
+logos of other products, interior or lifestyle photography, lifestyle
+objects (mugs, candles, linen), anything that could belong to the ICP's
+own aesthetic content, harsh dark/underexposed lighting (retired v5
+treatment).
+
+Color tokens: Navy #1B2A4A, Gold #D4AF37 (precise accent only, max ~8%),
+Clear #F0EBE1 (now also the base photography tone — replaces the retired
+Photo Dark #1F1C18), Slate #6B6F80 (secondary text, not photography).
 
 ## Shadow model — public language
 
